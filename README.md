@@ -1,6 +1,6 @@
 # Admin Template
 
-A Next.js admin dashboard boilerplate taken from `admin-ui`. It keeps the **UI structure and page flow only**: there is no API client, no data fetching and no backend auth. Every screen runs on placeholder data, so you can start a new admin panel and wire in real data one module at a time.
+A custom Next.js admin dashboard boilerplate. It provides the **UI structure and page flow only**: there is no API client, no data fetching and no backend auth. Every screen runs on placeholder data, so you can start a new admin panel and wire in real data one module at a time.
 
 ## Stack
 
@@ -9,8 +9,8 @@ Next.js 16 (App Router) · React 19 · Tailwind CSS v4 · shadcn/ui (`radix-nova
 ## Setup
 
 ```bash
-pnpm install --ignore-workspace   # inside u9-subscription-system; plain `pnpm install` once moved out
-pnpm dev                          # http://localhost:3002
+pnpm install
+pnpm dev       # http://localhost:3002
 ```
 
 Demo sign-in: any email, with a password of 6 or more characters.
