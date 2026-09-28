@@ -6,7 +6,7 @@ A custom Next.js admin dashboard boilerplate. It provides the **UI structure and
 
 Next.js 16 (App Router) · React 19 · Tailwind CSS v4 · shadcn/ui (`radix-nova` style, `neutral` base) · Radix UI · lucide-react · next-themes · sonner · zod
 
-## Setup
+## Setup 
 
 ```bash
 pnpm install
